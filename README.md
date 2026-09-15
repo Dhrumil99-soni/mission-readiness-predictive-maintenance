@@ -1,4 +1,10 @@
-# Study Assistant MCP + Predictive Maintenance
+# 🚀 Mission Readiness & Predictive Maintenance
+
+## 🎯 Problem Statement
+
+Industrial equipment such as pumps, motors, compressors, and generators can develop faults due to abnormal temperature, vibration, pressure, and voltage conditions. Unexpected equipment failures can cause downtime, maintenance costs, and reduced operational efficiency.
+
+Our project provides a Mission Readiness & Predictive Maintenance dashboard that monitors equipment health, detects abnormal sensor readings, and provides health scores and failure-risk indicators to help maintenance teams identify potential issues early.
 
 This repository contains two independent projects:
 
@@ -8,8 +14,6 @@ This repository contains two independent projects:
 | **Mission Readiness & Predictive Maintenance** | Web dashboard for equipment health monitoring | `predictive_maintenance/` |
 
 ---
-
-## Mission Readiness & Predictive Maintenance (Hackathon POC)
 
 > Full documentation: [`predictive_maintenance/README.md`](predictive_maintenance/README.md)
 
