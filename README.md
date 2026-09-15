@@ -17,11 +17,11 @@ Our project provides a Mission Readiness & Predictive Maintenance dashboard that
 #Solution 
 We developed an AI-based predictive maintenance system that analyzes equipment/operational data to identify abnormal patterns and predict potential maintenance requirements. The system helps users take preventive action before a failure occurs, improving equipment availability, reducing unexpected downtime, and supporting mission readiness.
 
-## 🎥 Demo Video & Pictures
+## 🎥 Demo & Presentation
 
-[▶️ View Demo Video and Pictures](https://drive.google.com/drive/folders/128teVwtAO06y-rWeGMqOT8_fGlTP8NVS)
-## 📊 Project Presentation
-[🎤 View Project Presentation](https://ap.wps.com/cms/docs/d/cbCaebpUCOgBqYot?sa=601.1074&refer=copylink)
+- 📊 [View Project Presentation](https://ap.wps.com/cms/docs/d/cbCaeanGDDctt1Lf?sa=601.1074&refer=copylink)
+- 🎬 [Watch Demo Video](YOUR_DEMO_VIDEO_LINK)
+- 🖥️ Demo screenshots are included in this repository.
 
  #Key Features
 Feature 1: AI-based predictive maintenance for identifying potential equipment failures.
