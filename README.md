@@ -6,6 +6,39 @@ Industrial equipment such as pumps, motors, compressors, and generators can deve
 
 Our project provides a Mission Readiness & Predictive Maintenance dashboard that monitors equipment health, detects abnormal sensor readings, and provides health scores and failure-risk indicators to help maintenance teams identify potential issues early.
 
+#Solution 
+We developed an AI-based predictive maintenance system that analyzes equipment/operational data to identify abnormal patterns and predict potential maintenance requirements. The system helps users take preventive action before a failure occurs, improving equipment availability, reducing unexpected downtime, and supporting mission readiness.
+
+ #Key Features
+Feature 1: AI-based predictive maintenance for identifying potential equipment failures.
+Feature 2: Analysis of equipment data to detect abnormal operating patterns.
+Feature 3: Early warning of possible maintenance requirements.
+Feature 4: Supports proactive maintenance decisions and reduces unexpected downtime.
+Feature 5: User-friendly presentation of predictions and maintenance insights.
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|---|---|
+| **Frontend** | Web-based Dashboard |
+| **Backend** | Application Backend |
+| **Data / Sensors** | Sensor Data |
+| **AI / ML** | Predictive Maintenance / Failure-Risk Analysis |
+| **Version Control** | Git, GitHub |
+
+#How to Run
+# 1. Clone the repository
+git clone https://github.com/Dhrumil99-soni/mission-readiness-predictive-maintenance.git
+
+# 2. Enter the project folder
+cd mission-readiness-predictive-maintenance
+
+# 3. Install dependencies
+pip install -r requirements.txt
+
+# 4. Run the application
+python app.py
+
 This repository contains two independent projects:
 
 | Project | Description | Location |
@@ -88,3 +121,13 @@ study-assistant-mcp/
 ├── src/index.ts               ← TypeScript stub
 └── package.json
 ```
+## ⚠️ Known Limitations
+
+- The accuracy of failure-risk predictions depends on the quality and availability of sensor data.
+- The current system is designed as a prototype and may require further testing with real-world industrial equipment.
+- The dashboard provides predictive insights to support maintenance decisions but does not replace professional inspection or maintenance procedures.
+- Performance may vary when the system is used with equipment or sensor conditions different from the data used during development.
+
+## 🏅 What We're Most Proud Of
+
+We are most proud of building a web-based Mission Readiness & Predictive Maintenance dashboard that turns sensor data into clear, actionable equipment-health insights. The dashboard makes it easy for maintenance teams to identify Healthy, Warning, and Critical equipment and take action before potential failures impact mission readiness.
