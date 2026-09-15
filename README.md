@@ -20,8 +20,7 @@ We developed an AI-based predictive maintenance system that analyzes equipment/o
 ## 🎥 Demo & Presentation
 
 - 📊 [View Project Presentation](https://ap.wps.com/cms/docs/d/cbCaeanGDDctt1Lf?sa=601.1074&refer=copylink)
-- 🎬 [Watch Demo Video](YOUR_DEMO_VIDEO_LINK)
-- 🖥️ Demo screenshots are included in this repository.
+- 🎬🖥️ [View Demo Video & Screenshots](https://drive.google.com/drive/folders/128teVwtAO06y-rWeGMqOT8_fGlTP8NVS)
 
 #Key Features
 
