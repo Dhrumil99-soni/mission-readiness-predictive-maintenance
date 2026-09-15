@@ -20,6 +20,8 @@ We developed an AI-based predictive maintenance system that analyzes equipment/o
 ## 🎥 Demo Video & Pictures
 
 [▶️ View Demo Video and Pictures](https://drive.google.com/drive/folders/128teVwtAO06y-rWeGMqOT8_fGlTP8NVS)
+## 📊 Project Presentation
+[🎤 View Project Presentation](https://ap.wps.com/cms/docs/d/cbCaebpUCOgBqYot?sa=601.1074&refer=copylink)
 
  #Key Features
 Feature 1: AI-based predictive maintenance for identifying potential equipment failures.
