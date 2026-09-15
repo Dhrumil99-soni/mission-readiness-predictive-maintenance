@@ -5,6 +5,14 @@
 Industrial equipment such as pumps, motors, compressors, and generators can develop faults due to abnormal temperature, vibration, pressure, and voltage conditions. Unexpected equipment failures can cause downtime, maintenance costs, and reduced operational efficiency.
 
 Our project provides a Mission Readiness & Predictive Maintenance dashboard that monitors equipment health, detects abnormal sensor readings, and provides health scores and failure-risk indicators to help maintenance teams identify potential issues early.
+## 👥 Team
+
+| Field | Value |
+|---|---|
+| **Team Name** | Mission Readiness |
+| **Track** | AI |
+| **Team Lead** | PATEL HARSH BHUPENDRA — 24ec102@charusat.edu.in |
+| **Members** | DHRUMIL SONI, PATEL OM VIPULKUMAR, PATEL DHRUV DIVYESHKUMAR |
 
 #Solution 
 We developed an AI-based predictive maintenance system that analyzes equipment/operational data to identify abnormal patterns and predict potential maintenance requirements. The system helps users take preventive action before a failure occurs, improving equipment availability, reducing unexpected downtime, and supporting mission readiness.
