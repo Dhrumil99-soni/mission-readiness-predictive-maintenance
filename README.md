@@ -9,7 +9,7 @@ Our project provides a Mission Readiness & Predictive Maintenance dashboard that
 
 | Field | Value |
 |---|---|
-| **Team Name** | Mission Readiness |
+| **Team Name** | VYOM |
 | **Track** | Open |
 | **Team Lead** | PATEL HARSH BHUPENDRA — 24ec102@charusat.edu.in |
 | **Members** | DHRUMIL SONI, PATEL OM VIPULKUMAR, PATEL DHRUV DIVYESHKUMAR |
