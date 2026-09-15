@@ -1,0 +1,22 @@
+{
+  "name": "study-assistant-mcp",
+  "version": "0.1.0",
+  "description": "Local AI College Study Assistant MCP Server",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node build/index.js"
+  },
+  "bin": {
+    "study-assistant-mcp": "./build/index.js"
+  },
+  "files": ["build"],
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "zod": "^3.22.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}
