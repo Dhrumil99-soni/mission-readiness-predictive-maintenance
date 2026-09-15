@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mission Readiness &amp; Predictive Maintenance</title>
+  <link rel="stylesheet" href="/static/style.css" />
+  <!-- Chart.js from CDN — only external dependency -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+</head>
+<body>
+<div id="app">
+
+  <!-- ── Header ─────────────────────────────────────────────── -->
+  <header>
+    <div class="logo">⚙ Mission Readiness</div>
+    <div class="subtitle">Predictive Maintenance Dashboard</div>
+    <div class="badge">HACKATHON POC</div>
+  </header>
+
+  <!-- ── Main layout ────────────────────────────────────────── -->
+  <main>
+
+    <!-- ── Sidebar: equipment overview ──────────────────────── -->
+    <aside id="sidebar">
+      <h2>Equipment Units</h2>
+      <div id="equip-list">
+        <!-- Equipment cards injected by app.js -->
+        <div class="placeholder">
+          <p>Loading equipment…</p>
+        </div>
+      </div>
+      <div class="last-updated" id="last-updated">—</div>
+      <button id="refresh-btn">↻ Refresh Now</button>
+    </aside>
+
+    <!-- ── Detail panel: selected equipment ─────────────────── -->
+    <section id="detail">
+      <div class="placeholder">
+        <svg width="64" height="64" viewBox="0 0 24 24" fill="none"
+             stroke="currentColor" stroke-width="1.2">
+          <circle cx="12" cy="12" r="10"/>
+          <path d="M12 8v4l3 3"/>
+        </svg>
+        <p>Select an equipment unit from the sidebar to view details.</p>
+      </div>
+    </section>
+
+  </main>
+
+</div>
+
+<script src="/static/app.js"></script>
+</body>
+</html>
